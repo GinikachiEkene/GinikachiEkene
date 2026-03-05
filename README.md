@@ -6,6 +6,6 @@
 
 - 👋 Hi, I’m @GinikachiEkene
 - 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning C++ & Networking
 - 💞️ I’m looking to collaborate on Web3
-- 📫 How to reach me ekeneginikachi16@gmail.com
+- 📫 How to reach me ginikachifortune21@gmail.com
